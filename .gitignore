@@ -1,0 +1,21 @@
+# Virtual environment
+venv312/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Large trained models
+model/*.keras
+model/*.h5
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Temporary files
+temp/
